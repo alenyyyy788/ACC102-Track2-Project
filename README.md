@@ -30,7 +30,7 @@ This project analyzes the annual average stock price and trading volume of five 
 4. Run all cells to view analysis and visualizations
 
 ## 6. Demo Video
-[https://video.xjtlu.edu.cn/Mediasite/Play/819ee0583f9549dab1c4a359903240901d]
+[https://video.xjtlu.edu.cn/Mediasite/Play/9094ecccb32d4615a1c2d7f1e80780e91d]
 
 ## 7. Limitations & Improvements
 - Limitations: Uses annual average data; does not include macroeconomic factors or risk analysis.
